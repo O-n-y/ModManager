@@ -1,4 +1,6 @@
 # Mod Manager - mod for Oxygen not Included
+![Mod folder contents](https://raw.githubusercontent.com/O-n-y/ModManager/master/Mod-Manager-march2020.png)
+
 This information how mod creators can interact with Mod Manager.
 Mod page: https://steamcommunity.com/sharedfiles/filedetails/?id=1843965353
 
