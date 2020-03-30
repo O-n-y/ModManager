@@ -1,10 +1,9 @@
 # Mod Manager - mod for Oxygen not Included
-## Guide for Mod Creaters
-
 This information how mod creators can interact with Mod Manager.
 Mod page: https://steamcommunity.com/sharedfiles/filedetails/?id=1843965353
 
-# Mod version
+# Guide for Mod Creaters
+## Mod version
 
 For your mod version information to be loaded and showed correctly in Mods list dialog:
 
@@ -17,7 +16,7 @@ For your mod version information to be loaded and showed correctly in Mods list 
   ![Mod folder contents](https://raw.githubusercontent.com/O-n-y/ModManager/master/ModVersioner-4.png)
   ![AssemblyInfo.cs](https://raw.githubusercontent.com/O-n-y/ModManager/master/Mod-Versioner-CS-2.png)
 
-## Example of version.info contents
+### Example of version.info contents
     <?xml version="1.0" encoding="utf-8"?>
     <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <Version>1.0.0.0</Version>
@@ -27,7 +26,7 @@ Example of *version.info* also can be found here: https://github.com/O-n-y/ModMa
 Upload *version.info* with other files of your mod using Oxygen Not Included Uploader.
 
 
-# Mod Creator Links to Discord, Github and Patreon
+## Mod Creator Links to Discord, Github and Patreon
 
 For your links to be displayed near your mod in Mods list dialog:
 ![mod links](https://raw.githubusercontent.com/O-n-y/ModManager/master/ModLinks.png)
