@@ -18,12 +18,14 @@ For your mod version information to be loaded and showed correctly in Mods list 
     </VersionInfo>
 Example of *version.info* also can be found here: https://github.com/O-n-y/ModManager/blob/master/version.info
 
+Upload *version.info* with other files of your mod using Oxygen Not Included Uploader.
+
 
 # External Links to Discord, Github and Patreon
 
 For your links to be displayed near your mod in Mods list dialog:
 
-* Create *mod.info* file with following content (replace links to your actual)
+* Create *mod.info* file with following content (replace links to your actual) in your mod root folder
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <ModInfoData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -33,5 +35,6 @@ For your links to be displayed near your mod in Mods list dialog:
 </ModInfoData>
 ```
 
-Example of *mod.info* also can be found here: https://github.com/O-n-y/ModManager/blob/master/version.info
-    
+Example of *mod.info* also can be found here: https://github.com/O-n-y/ModManager/blob/master/mod.info
+
+Upload *mod.info* with other files of your mod using Oxygen Not Included Uploader.
