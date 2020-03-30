@@ -16,3 +16,4 @@ For your mod version information to be loaded correctly:
     <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <Version>1.0.0.0</Version>
     </VersionInfo>
+Also can be found here: https://github.com/O-n-y/ModManager/blob/master/version.info
