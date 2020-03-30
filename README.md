@@ -10,6 +10,9 @@ For your mod version information to be loaded and showed correctly in Mods list 
   * If version info not found, it will create *version.info.tpl*. 
   * You can open it with text editor and edit version there.
   * Then save it and rename to *version.info*, upload this file with all other files of your mod.
+  
+  ![Mod folder contents](https://raw.githubusercontent.com/O-n-y/ModManager/master/ModVersioner-4.png)
+  ![AssemblyInfo.cs](https://raw.githubusercontent.com/O-n-y/ModManager/master/Mod-Versioner-CS-2.png)
 
 ## Example of version.info contents
     <?xml version="1.0" encoding="utf-8"?>
