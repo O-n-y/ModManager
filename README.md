@@ -37,6 +37,7 @@ For your links to be displayed near your mod in Mods list dialog:
   <Patreon>https://www.patreon.com/ony_mods</Patreon>
 </ModInfoData>
 ```
+If link is black, icon won't be shown, so if do not have for example Discord link - leave it blank
 
 Example of *mod.info* also can be found here: https://github.com/O-n-y/ModManager/blob/master/mod.info
 
