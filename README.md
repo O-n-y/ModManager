@@ -24,10 +24,10 @@ Example of *version.info* also can be found here: https://github.com/O-n-y/ModMa
 Upload *version.info* with other files of your mod using Oxygen Not Included Uploader.
 
 
-# External Links to Discord, Github and Patreon
+# Mod Creator Links to Discord, Github and Patreon
 
 For your links to be displayed near your mod in Mods list dialog:
-
+![mod links](https://raw.githubusercontent.com/O-n-y/ModManager/master/ModLinks.png)
 * Create *mod.info* file with following content (replace links to your actual) in your mod root folder
 ```
 <?xml version="1.0" encoding="utf-8"?>
